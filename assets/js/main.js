@@ -4,7 +4,7 @@ onload = () => {
 
   setTimeout(() => {
     load.style.display = "none";
-  }, 2500);
+  }, 2000);
 };
 /*=============== SHOW MENU ===============*/
 const navMenu = document.getElementById("nav-menu"),
